@@ -29,6 +29,14 @@ a {
     color: rgb(234, 243, 132);
 }
 
+.article-picture {
+    /* display: block;  */
+    float: left;
+}
+.article-picture2 {
+    /* display: block;  */
+    float: right;
+}
 
 img {
     margin: 16px;
@@ -37,7 +45,6 @@ img {
 }
 
 .textbox {
-    /* clear: right; */
     margin: 16px;
     border: solid 1px rgb(0, 255, 106);
     padding: 16px 0px;
