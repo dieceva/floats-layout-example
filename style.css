@@ -37,7 +37,18 @@ a {
     /* display: block;  */
     float: right;
 }
-
+.article-picture3 {
+    /* display: block;  */
+    float: right;
+}
+.article-picture4 {
+    clear: both;
+    
+}
+#bigboat    {
+    max-width: 1125px;
+    
+}
 img {
     margin: 16px;
     border: solid 3px #db3131;
